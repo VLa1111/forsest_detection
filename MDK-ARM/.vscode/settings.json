@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "array": "cpp",
+        "*.tcc": "cpp",
+        "istream": "cpp",
+        "streambuf": "cpp",
+        "modbus_interface.h": "c",
+        "usart.h": "c",
+        "main.h": "c",
+        "modbus_std.h": "c",
+        "stdlib.h": "c",
+        "cstring": "c",
+        "map": "cpp",
+        "string": "cpp",
+        "stdio.h": "c"
+    }
+}

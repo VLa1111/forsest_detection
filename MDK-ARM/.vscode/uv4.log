@@ -1,0 +1,28 @@
+*** Using Compiler 'V5.06 update 7 (build 960)', folder: 'E:\Keil_v5\ARM\ARMCC\Bin'
+Build target 'forest_detection'
+compiling modbus_interface.c...
+linking...
+Program Size: Code=9496 RO-data=436 RW-data=376 ZI-data=2736  
+FromELF: creating hex file...
+After Build - User command #1: fromelf.exe --bin -o "g:\CPP_WorkSpace\forest_detection\MDK-ARM\output\forest_detection.bin" "g:\CPP_WorkSpace\forest_detection\MDK-ARM\output\forest_detection.axf"
+After Build - User command #2: fromelf.exe --info=totals "g:\CPP_WorkSpace\forest_detection\MDK-ARM\output\forest_detection.axf"
+========================================================================
+
+Object file sizes
+
+      Code (inc. data)   RO Data    RW Data    ZI Data      Debug
+
+      9496        572        436        376       2736     641880   Grand Totals
+      9496        572        436        216          0          0   ROM Totals
+
+========================================================================
+
+    Total RO  Size (Code + RO Data)                 9932 (   9.70kB)
+    Total RW  Size (RW Data + ZI Data)              3112 (   3.04kB)
+    Total RW  Size (after compression)              2952 (   2.88kB)
+    Total ROM Size (Code + RO Data + RW Data)      10148 (   9.91kB)
+
+========================================================================
+
+".\output\forest_detection.axf" - 0 Error(s), 0 Warning(s).
+Build Time Elapsed:  00:00:03

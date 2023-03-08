@@ -1,0 +1,11 @@
+"E:\JetBrains\CLion 2022.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=E:/JetBrains/CLion 2022.1/bin/ninja/win/ninja.exe" -G Ninja -S G:\CPP_WorkSpace\forest_detection -B G:\CPP_WorkSpace\forest_detection\cmake-build-debug
+CMake Warning (dev) at CMakeLists.txt:56:
+  Syntax Warning in cmake code at column 81
+
+  Argument not separated from preceding token by whitespace.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- Minimal optimization, debug info included
+-- Configuring done
+-- Generating done
+-- Build files have been written to: G:/CPP_WorkSpace/forest_detection/cmake-build-debug
